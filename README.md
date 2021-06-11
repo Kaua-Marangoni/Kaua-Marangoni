@@ -1,16 +1,53 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Kauã Marangoni">
 
-<!--
-**Kaua-Marangoni/Kaua-Marangoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-Here are some ideas to get you started:
+### Hi there, I'm Kauã! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>👩‍💻 &nbsp; I'm from Santa Catarina in Brazil</p>
+<p>🔭 &nbsp; I'm currently not working in the technology field</p>
+<p>🎓 &nbsp; Studying development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
+<p>💼 &nbsp; Goals: Get a job in programming area, and become a great Fullstack Dev</p>
+
+### 🤝 Connect with me
+<p>
+  <a href="mailto:kauamarangonitj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/kaua_marangoni/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kau%C3%A3-marangoni-119ba41a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCt4kkTrxdJL1f35oW8d1p_Q" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5548996647887" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+### 🚀 My Skills
+
+<p>
+  <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></code>
+  <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></code>
+</p>
+
+### 🌱 Learning
+
+<p>
+  <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></code>
+  <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></code>
+</p>
+
+<br>
+
+<a href="https://github.com/Kaua-Marangoni">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-Marangoni&theme=dracula&hide_langs_below=1" alt="Kauã Marangoni github stats"/>
+</a>
+
+<a href="https://github.com/Kaua-Marangoni">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaua-Marangoni&show_icons=true&theme=dracula&line_height=27" alt="Kauã Marangoni github stats"/>
+</a>
