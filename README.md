@@ -9,6 +9,8 @@
 <p>🎓 &nbsp; Studying development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
 <p>💼 &nbsp; Goals: Get a job in programming area, and become a great Fullstack Dev</p>
 
+![](https://komarev.com/ghpvc/?username=Kaua-Marangoni&color=brightgreen&style=flat-square)
+
 ### 🤝 Connect with me
 <p>
   <a href="mailto:kauamarangonitj@gmail.com" target="_blank">
