@@ -6,7 +6,7 @@
 
 <p>👩‍💻 &nbsp; I'm from Santa Catarina in Brazil</p>
 <p>🔭 &nbsp; I'm currently not working in the technology field</p>
-<p>🎓 &nbsp; Studying development with Javascript at <a href="https://dashboard.kiwify.com.br/courses/" target="_blank">CODECLUB</a></p>
+<p>🎓 &nbsp; Studying development with Javascript at DEVCLUB</p>
 <p>💼 &nbsp; Goals: Get a job in programming area, and become a great Fullstack Dev</p>
 
 ![](https://komarev.com/ghpvc/?username=Kaua-Marangoni&color=brightgreen&style=flat-square)
